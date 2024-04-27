@@ -1,0 +1,1 @@
+This project will analyze this [dataset](https://www.kaggle.com/datasets/hacker-news/hacker-news-posts) and specifically look at posts marked 'Ask HN' and 'Show HN'. We will calculate and compare their averages and time submitted to determine which posts were preferred.
